@@ -1,4 +1,4 @@
-# Beacon Klipper
+# Beacon Klipperrr
 
 Beacon Klipper is the klipper module for using the [Beacon](https://beacon3d.com) Eddy Current Scanner.
 
